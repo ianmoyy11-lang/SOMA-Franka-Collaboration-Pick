@@ -452,7 +452,7 @@ C:\Projects\IsaacSim-SOMAX\collaboration_pick.py
 
 The complete program is available at:
 
-[continuous_pick.py](./continuous_pick.py)
+[SOMAX_FOOT_Eng.py](./SOMAX_FOOT_Eng.py)
 
 Before running the program, set the `SOMAX_FOLDER` environment variable.
 
