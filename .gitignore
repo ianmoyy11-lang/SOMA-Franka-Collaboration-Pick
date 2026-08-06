@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Isaac Sim generated files
+cache/
+logs/
+kit/
+extscache/
+
+# SOMA-X generated outputs
+outputs/
+
+# Large simulation and model files
+*.usd
+*.usda
+*.usdc
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+
+# Windows
+Thumbs.db
+Desktop.ini
