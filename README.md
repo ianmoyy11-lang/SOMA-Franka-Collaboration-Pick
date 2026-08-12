@@ -3,10 +3,12 @@ GitHub:
 [https://github.com/ianmoyy11-lang/SOMA-Franka-Collaboration-Pick.git](https://github.com/ianmoyy11-lang/SOMA-Franka-Collaboration-Pick.git)
 
 ## Demo
-<!-- 这是一张图片，ocr 内容为： -->
-![](./Im/demo_handwave.gif)  
-This guide covers the complete Windows deployment workflow:
 
+<p align="center">
+  <img src="./Im/demo_handwave.gif" width="850" alt="SOMA-X Franka Demo">
+</p>
+
+This guide covers the complete Windows deployment workflow:
 1. Install the ZIP version of Isaac Sim 6.0.1.
 2. Download and install SOMA-X.
 3. Generate a SOMA-X USD with continuous left-arm waving using `export_soma_left_arm_wave_allthetime.py`.
